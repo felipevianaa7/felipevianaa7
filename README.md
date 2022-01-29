@@ -1,7 +1,7 @@
 ### Olá mundo! ✌😎
 
 - 🎓 Formado em ADS (Análise e Desenvolvimento de Sistemas)
-- 🌱 Estudando CSS/JavaScript/PHP/POO 
+- 🌱 Estudando CSS/JavaScript/NodeJS/PHP/POO 
 - 👀 Procurando trabalho como Desenvolvedor Web
 
 <div>
